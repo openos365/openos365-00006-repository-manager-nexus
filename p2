@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+set -x
+
+export CMD_PATH=$PWD
+export PROJECT_NAME="${CMD_PATH##*/}"
+echo $PROJECT_NAME
+cd $CMD_PATH
+git status
+git add .
+export message="$1"
+if [ -z "$message" ];then
+    export message="[just fix it]"
+fi
+git commit -a -m "$message"
+git push origin HEAD
+
