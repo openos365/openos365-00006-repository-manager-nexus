@@ -1,0 +1,27 @@
+[Plus-source]
+name=AnolisOS-7.9 - Plus Source
+baseurl=https://mirrors.openanolis.cn/anolis/7.9/Plus/source/
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1
+
+[os-source]
+name=AnolisOS-7.9 - os Source
+baseurl=https://mirrors.openanolis.cn/anolis/7.9/os/source/
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1
+
+[updates-source]
+name=AnolisOS-7.9 - updates Source
+baseurl=https://mirrors.openanolis.cn/anolis/7.9/updates/source/
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1
+
+[extras-source]
+name=AnolisOS-7.9 - extras Source
+baseurl=https://mirrors.openanolis.cn/anolis/7.9/extras/source/
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1

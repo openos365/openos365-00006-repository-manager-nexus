@@ -1,0 +1,9 @@
+# dist macros.
+
+%anolis_ver 7
+%anolis     7
+%anolis7 1
+%dist .an7
+# For compatibility
+%rhel 7
+%el7 1

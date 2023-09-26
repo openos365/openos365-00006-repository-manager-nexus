@@ -1,0 +1,15 @@
+NAME="Anolis OS"
+VERSION="7.9"
+ID="anolis"
+ID_LIKE="rhel fedora centos"
+VERSION_ID="7.9"
+PRETTY_NAME="Anolis OS 7.9"
+ANSI_COLOR="0;31"
+HOME_URL="https://openanolis.cn/"
+BUG_REPORT_URL="https://bugs.openanolis.cn/"
+
+CENTOS_MANTISBT_PROJECT="CentOS-7"
+CENTOS_MANTISBT_PROJECT_VERSION="7"
+REDHAT_SUPPORT_PRODUCT="centos"
+REDHAT_SUPPORT_PRODUCT_VERSION="7"
+

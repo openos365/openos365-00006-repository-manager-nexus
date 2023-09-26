@@ -1,0 +1,6 @@
+[Plus]
+name=AnolisOS-7.9 - Plus
+baseurl=http://mirrors.openanolis.cn/anolis/7.9/Plus/$basearch/os
+enabled=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ANOLIS
+gpgcheck=1

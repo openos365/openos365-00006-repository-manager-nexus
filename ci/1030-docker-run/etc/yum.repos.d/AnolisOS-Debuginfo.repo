@@ -1,0 +1,27 @@
+[Plus-debuginfo]
+name=AnolisOS-7.9 - Plus Debuginfo
+baseurl=https://mirrors.openanolis.cn/anolis/7.9/Plus/$basearch/debug
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1
+
+[os-debuginfo]
+name=AnolisOS-7.9 - os Debuginfo
+baseurl=https://mirrors.openanolis.cn/anolis/7.9/os/$basearch/debug
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1
+
+[updates-debuginfo]
+name=AnolisOS-7.9 - updates Debuginfo
+baseurl=https://mirrors.openanolis.cn/anolis/7.9/updates/$basearch/debug
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1
+
+[extras-debuginfo]
+name=AnolisOS-7.9 - extras Debuginfo
+baseurl=https://mirrors.openanolis.cn/anolis/7.9/extras/$basearch/debug
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1
