@@ -63,9 +63,9 @@ if [ ! -z "${GITHUB_REPOSITORY}" ];then
     done
 
     # 7
-    cd $CMD_PATH
-    apt list > 4.apt.list.txt
-    apt list --installed > 5.apt.list.installed.txt
+    # cd $CMD_PATH
+    # apt list > 4.apt.list.txt
+    # apt list --installed > 5.apt.list.installed.txt
    
     # 8
     cd $CMD_PATH
