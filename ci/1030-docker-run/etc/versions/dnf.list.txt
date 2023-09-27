@@ -18621,7 +18621,7 @@ simfqt-doc.noarch                                                   1.00.1-2.el7
 simple-scan.x86_64                                                  3.28.1-1.el7                                                  epel    
 since.x86_64                                                        1.1-11.el7                                                    epel    
 sing.x86_64                                                         1.1-6.el7                                                     epel    
-singularity-ce.x86_64                                               3.11.4-1.el7                                                  epel    
+singularity-ce.x86_64                                               3.11.5-1.el7                                                  epel    
 sip.x86_64                                                          4.14.6-4.an7                                                  os      
 sip-devel.x86_64                                                    4.14.6-4.an7                                                  os      
 sip-macros.x86_64                                                   4.14.6-4.an7                                                  os      
