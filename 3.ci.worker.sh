@@ -23,6 +23,10 @@ if [ ! -z "${GITHUB_REPOSITORY}" ];then
     # sudo apt update -y
     # sudo apt upgrade -y
     sudo apt install -y dos2unix
+    cd ~
+    curl -LO https://storage.googleapis.com/container-diff/latest/container-diff-linux-amd64
+    sudo install container-diff-linux-amd64 /usr/bin/container-diff
+    cd $CMD_PATH
     
     # 1 
     git config --global user.email "gnuhub@gmail.com"
