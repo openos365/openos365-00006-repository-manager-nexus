@@ -6,6 +6,11 @@ export CMD_PATH=$PWD
 export PROJECT_NAME="${CMD_PATH##*/}"
 echo $PROJECT_NAME
 cd $CMD_PATH
+
+git config --global user.email  "gnuhub@qq.com"
+git config --global user.name   "gnuhub"
+git config --global core.editor "vim"
+
 git status
 git add .
 export message="$1"
