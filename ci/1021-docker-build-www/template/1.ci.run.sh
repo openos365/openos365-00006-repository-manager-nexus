@@ -26,11 +26,11 @@ docker build . -f Dockerfile \
 # docker push registry.cn-hangzhou.aliyuncs.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME-${MY_USER}:latest
 # docker push hkccr.ccs.tencentyun.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME-${MY_USER}:$GITHUB_RUN_NUMBER 
 # docker push hkccr.ccs.tencentyun.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME-${MY_USER}:latest 
-# docker push ${GITHUB_REPOSITORY}-$GITHUB_REF_NAME-${MY_USER}:$GITHUB_RUN_NUMBER
-# docker push ${GITHUB_REPOSITORY}-$GITHUB_REF_NAME-${MY_USER}:latest
+docker push ${GITHUB_REPOSITORY}-$GITHUB_REF_NAME-${MY_USER}:$GITHUB_RUN_NUMBER
+docker push ${GITHUB_REPOSITORY}-$GITHUB_REF_NAME-${MY_USER}:latest
 
-docker push dockerhub.qingcloud.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME-${MY_USER}:$GITHUB_RUN_NUMBER
-docker push dockerhub.qingcloud.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME-${MY_USER}:latest
+# docker push dockerhub.qingcloud.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME-${MY_USER}:$GITHUB_RUN_NUMBER
+# docker push dockerhub.qingcloud.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME-${MY_USER}:latest
 
 
 echo "============================================================================"
