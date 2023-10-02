@@ -1041,7 +1041,7 @@ arduino-core.noarch                                                 1:1.0.5-6.el
 arduino-doc.noarch                                                  1:1.0.5-6.el7                                                 epel    
 argbash.noarch                                                      2.10.0-1.el7                                                  epel    
 argon2.x86_64                                                       20161029-3.el7                                                epel    
-argparse-manpage.noarch                                             4.4-1.el7                                                     epel    
+argparse-manpage.noarch                                             4.5-1.el7                                                     epel    
 args4j.noarch                                                       2.0.16-13.an7                                                 os      
 args4j-javadoc.noarch                                               2.0.16-13.an7                                                 os      
 argtable.x86_64                                                     2.13-7.el7                                                    epel    
@@ -2011,10 +2011,10 @@ chm2pdf.noarch                                                      0.9.1-13.el7
 chmlib.x86_64                                                       0.40-9.el7                                                    epel    
 chmlib-devel.x86_64                                                 0.40-9.el7                                                    epel    
 chrome-gnome-shell.x86_64                                           10.1-4.an7                                                    os      
-chromedriver.x86_64                                                 116.0.5845.96-1.el7                                           epel    
-chromium.x86_64                                                     116.0.5845.96-1.el7                                           epel    
-chromium-common.x86_64                                              116.0.5845.96-1.el7                                           epel    
-chromium-headless.x86_64                                            116.0.5845.96-1.el7                                           epel    
+chromedriver.x86_64                                                 117.0.5938.132-1.el7                                          epel    
+chromium.x86_64                                                     117.0.5938.132-1.el7                                          epel    
+chromium-common.x86_64                                              117.0.5938.132-1.el7                                          epel    
+chromium-headless.x86_64                                            117.0.5938.132-1.el7                                          epel    
 chrony.x86_64                                                       3.4-1.0.1.an7                                                 os      
 chrpath.x86_64                                                      0.16-0.an7                                                    os      
 cifs-utils.x86_64                                                   6.2-10.an7                                                    os      
@@ -7449,7 +7449,7 @@ lasi-devel.x86_64                                                   1.1.1-6.el7 
 lasso.x86_64                                                        2.5.1-8.an7                                                   updates 
 lasso-devel.x86_64                                                  2.5.1-8.an7                                                   updates 
 lasso-python.x86_64                                                 2.5.1-8.an7                                                   updates 
-lastpass-cli.x86_64                                                 1.3.5-1.el7                                                   epel    
+lastpass-cli.x86_64                                                 1.3.6-2.el7                                                   epel    
 laszip.x86_64                                                       2.2.0-4.el7                                                   epel    
 laszip-devel.x86_64                                                 2.2.0-4.el7                                                   epel    
 latencytop.x86_64                                                   0.5-13.an7                                                    os      
@@ -10840,10 +10840,10 @@ netcdf-openmpi-static.x86_64                                        4.3.3.1-5.el
 netcdf-static.x86_64                                                4.3.3.1-5.el7                                                 epel    
 netcdf4-python.x86_64                                               1.2.7-4.el7                                                   epel    
 netcf-libs.x86_64                                                   0.2.8-4.an7                                                   os      
-netdata.x86_64                                                      1.42.2-1.el7                                                  epel    
-netdata-conf.noarch                                                 1.42.2-1.el7                                                  epel    
-netdata-data.noarch                                                 1.42.2-1.el7                                                  epel    
-netdata-freeipmi.x86_64                                             1.42.2-1.el7                                                  epel    
+netdata.x86_64                                                      1.42.4-1.el7                                                  epel    
+netdata-conf.noarch                                                 1.42.4-1.el7                                                  epel    
+netdata-data.noarch                                                 1.42.4-1.el7                                                  epel    
+netdata-freeipmi.x86_64                                             1.42.4-1.el7                                                  epel    
 netgen-mesher.x86_64                                                5.3.1-5.el7                                                   epel    
 netgen-mesher-common.noarch                                         5.3.1-5.el7                                                   epel    
 netgen-mesher-devel.x86_64                                          5.3.1-5.el7                                                   epel    
@@ -11701,7 +11701,7 @@ oci-umount.x86_64                                                   2:2.5-3.an7 
 ocl-icd.x86_64                                                      2.2.12-1.el7                                                  epel    
 ocl-icd-devel.x86_64                                                2.2.12-1.el7                                                  epel    
 ocproxy.x86_64                                                      1.60-1.20190728gitc98f06d.el7                                 epel    
-ocserv.x86_64                                                       1.2.0-2.el7                                                   epel    
+ocserv.x86_64                                                       1.2.2-1.el7                                                   epel    
 ocsinventory-agent.x86_64                                           2.9.1-1.el7                                                   epel    
 octave.x86_64                                                       6:3.8.2-20.el7                                                epel    
 octave-GeographicLib.noarch                                         1.43-1.el7                                                    epel    
@@ -15944,7 +15944,7 @@ python2-apprise.noarch                                              1.0.0-1.el7 
 python2-apsw.x86_64                                                 3.7.17.r1-3.el7                                               epel    
 python2-argcomplete.noarch                                          1.7.0-5.el7                                                   epel    
 python2-argh.noarch                                                 0.26.1-6.el7                                                  epel    
-python2-argparse-manpage.noarch                                     4.4-1.el7                                                     epel    
+python2-argparse-manpage.noarch                                     4.5-1.el7                                                     epel    
 python2-args.noarch                                                 0.1.0-3.el7                                                   epel    
 python2-arrow.noarch                                                0.8.0-4.el7                                                   epel    
 python2-asciitree.noarch                                            0.3.3-3.el7                                                   epel    
@@ -17823,7 +17823,7 @@ rpmdeplint.noarch                                                   1.4-1.el7   
 rpmdevtools.noarch                                                  8.3-8.0.1.an7                                                 updates 
 rpmemd.x86_64                                                       1.5.1-2.1.an7                                                 os      
 rpminspect.x86_64                                                   1.11-1.el7                                                    epel    
-rpminspect-data-centos.noarch                                       1:1.2-1.el7                                                   epel    
+rpminspect-data-centos.noarch                                       1:1.4-1.el7                                                   epel    
 rpminspect-data-fedora.noarch                                       1:1.12-1.el7                                                  epel    
 rpminspect-data-generic.x86_64                                      1.11-1.el7                                                    epel    
 rpmlint.noarch                                                      1.5-4.an7                                                     os      
@@ -18475,7 +18475,7 @@ seabios-bin.noarch                                                  1.11.0-2.an7
 seahorse.x86_64                                                     3.20.0-1.an7                                                  os      
 seahorse-nautilus.x86_64                                            3.11.92-11.an7                                                os      
 seahorse-sharing.x86_64                                             3.8.0-3.an7                                                   os      
-seamonkey.x86_64                                                    2.53.17-1.el7                                                 epel    
+seamonkey.x86_64                                                    2.53.17.1-1.el7                                               epel    
 seamonkey-noscript.noarch                                           5.1.9-3.el7                                                   epel    
 seavgabios-bin.noarch                                               1.11.0-2.an7                                                  os      
 sec.noarch                                                          2.9.2-1.el7                                                   epel    
@@ -20132,7 +20132,7 @@ tinyxml.x86_64                                                      2.6.2-3.el7 
 tinyxml-devel.x86_64                                                2.6.2-3.el7                                                   epel    
 tinyxml2.x86_64                                                     2.1.0-2.20140406git6ee53e7.el7                                epel    
 tinyxml2-devel.x86_64                                               2.1.0-2.20140406git6ee53e7.el7                                epel    
-tio.x86_64                                                          2.6-1.el7                                                     epel    
+tio.x86_64                                                          2.7-1.el7                                                     epel    
 tipcutils.x86_64                                                    2.0.6-1.el7                                                   epel    
 tiptop.x86_64                                                       2.3-1.el7                                                     epel    
 tito.noarch                                                         0.6.24-1.el7                                                  epel    
