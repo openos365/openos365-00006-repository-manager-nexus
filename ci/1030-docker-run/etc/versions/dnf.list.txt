@@ -18549,7 +18549,7 @@ shared-desktop-ontologies.noarch                                    0.11.0-2.an7
 shared-desktop-ontologies-devel.noarch                              0.11.0-2.an7                                                  os      
 sharutils.x86_64                                                    4.13.3-8.an7                                                  os      
 shc.x86_64                                                          4.0.3-1.el7                                                   epel    
-shdoc.noarch                                                        1.1-1.el7                                                     epel    
+shdoc.noarch                                                        1.2-1.el7                                                     epel    
 shellinabox.x86_64                                                  2.20-5.el7                                                    epel    
 shflags.noarch                                                      1.0.3-6.el7                                                   epel    
 shiboken.x86_64                                                     1.2.4-10.el7                                                  epel    
