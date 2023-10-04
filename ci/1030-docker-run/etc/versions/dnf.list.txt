@@ -12222,7 +12222,7 @@ parfait-javadoc.noarch                                              0.5.4-2.an7 
 paris-traceroute.x86_64                                             0.92-6.el7                                                    epel    
 parole.x86_64                                                       0.8.1-2.el7                                                   epel    
 parole-devel.x86_64                                                 0.8.1-2.el7                                                   epel    
-partclone.x86_64                                                    0.3.25-1.el7                                                  epel    
+partclone.x86_64                                                    0.3.26-1.el7                                                  epel    
 parted.x86_64                                                       3.1-32.an7                                                    os      
 parted-devel.x86_64                                                 3.1-32.an7                                                    os      
 passenger.x86_64                                                    4.0.53-4.el7                                                  epel    
