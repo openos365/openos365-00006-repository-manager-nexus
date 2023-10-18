@@ -21533,8 +21533,8 @@ zeromq3-devel.x86_64                                                3.2.5-1.el7 
 zfp.x86_64                                                          0.5.5-1.el7                                                   epel    
 zfp-devel.x86_64                                                    0.5.5-1.el7                                                   epel    
 zile.x86_64                                                         2.4.14-1.el7                                                  epel    
-zimg.x86_64                                                         3.0.3-1.el7                                                   epel    
-zimg-devel.x86_64                                                   3.0.3-1.el7                                                   epel    
+zimg.x86_64                                                         3.0.5-1.el7                                                   epel    
+zimg-devel.x86_64                                                   3.0.5-1.el7                                                   epel    
 zinnia.x86_64                                                       0.06-22.el7                                                   epel    
 zinnia-devel.x86_64                                                 0.06-22.el7                                                   epel    
 zinnia-doc.noarch                                                   0.06-22.el7                                                   epel    
