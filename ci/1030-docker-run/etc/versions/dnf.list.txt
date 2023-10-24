@@ -11788,7 +11788,7 @@ openbabel-devel.x86_64                                              2.3.2-2.el7 
 openbabel-doc.noarch                                                2.3.2-2.el7                                                   epel    
 openbabel-gui.x86_64                                                2.3.2-2.el7                                                   epel    
 openbabel-libs.x86_64                                               2.3.2-2.el7                                                   epel    
-openbgpd.x86_64                                                     8.2-1.el7                                                     epel    
+openbgpd.x86_64                                                     8.3-1.el7                                                     epel    
 openblas.x86_64                                                     0.3.3-2.el7                                                   epel    
 openblas-Rblas.x86_64                                               0.3.3-2.el7                                                   epel    
 openblas-devel.x86_64                                               0.3.3-2.el7                                                   epel    
