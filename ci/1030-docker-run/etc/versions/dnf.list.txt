@@ -3344,12 +3344,12 @@ exec-maven-plugin-javadoc.noarch                                    1.2.1-13.an7
 exempi.x86_64                                                       2.2.0-9.an7                                                   os      
 exempi-devel.x86_64                                                 2.2.0-9.an7                                                   os      
 exfatprogs.x86_64                                                   1.2.1-1.el7                                                   epel    
-exim.x86_64                                                         4.96.1-1.el7                                                  epel    
-exim-greylist.x86_64                                                4.96.1-1.el7                                                  epel    
-exim-mon.x86_64                                                     4.96.1-1.el7                                                  epel    
-exim-mysql.x86_64                                                   4.96.1-1.el7                                                  epel    
-exim-pgsql.x86_64                                                   4.96.1-1.el7                                                  epel    
-exim-sysvinit.noarch                                                4.96.1-1.el7                                                  epel    
+exim.x86_64                                                         4.96.2-1.el7                                                  epel    
+exim-greylist.x86_64                                                4.96.2-1.el7                                                  epel    
+exim-mon.x86_64                                                     4.96.2-1.el7                                                  epel    
+exim-mysql.x86_64                                                   4.96.2-1.el7                                                  epel    
+exim-pgsql.x86_64                                                   4.96.2-1.el7                                                  epel    
+exim-sysvinit.noarch                                                4.96.2-1.el7                                                  epel    
 exiv2.x86_64                                                        0.27.0-4.an7                                                  updates 
 exiv2-devel.x86_64                                                  0.27.0-4.an7                                                  updates 
 exiv2-doc.noarch                                                    0.27.0-4.an7                                                  updates 
@@ -18457,6 +18457,7 @@ scitokens-cpp.x86_64                                                1.0.2-1.el7 
 scitokens-cpp-devel.x86_64                                          1.0.2-1.el7                                                   epel    
 scl-utils.x86_64                                                    20130529-19.an7                                               os      
 scl-utils-build.x86_64                                              20130529-19.an7                                               os      
+scl-utils-build-helpers.noarch                                      0-8.el7                                                       epel    
 scons-doc.noarch                                                    3.1.2-1.el7                                                   epel    
 scorep.x86_64                                                       6.0-9.el7                                                     epel    
 scorep-config.x86_64                                                6.0-9.el7                                                     epel    
@@ -20886,7 +20887,7 @@ wordnet.x86_64                                                      3.0-21.an7  
 wordnet-browser.x86_64                                              3.0-21.an7                                                    os      
 wordnet-devel.x86_64                                                3.0-21.an7                                                    os      
 wordnet-doc.noarch                                                  3.0-21.an7                                                    os      
-wordpress.noarch                                                    5.1.16-1.el7                                                  epel    
+wordpress.noarch                                                    5.1.17-1.el7                                                  epel    
 words.noarch                                                        3.0-22.an7                                                    os      
 worker.x86_64                                                       3.15.2-1.el7                                                  epel    
 workrave.x86_64                                                     1.10.16-1.el7                                                 epel    
