@@ -2724,6 +2724,7 @@ dhcp-devel.x86_64                                                   12:4.2.5-83.
 dhcp-libs.x86_64                                                    12:4.2.5-83.an7.1                                             updates 
 dhcpcd.x86_64                                                       9.5.2-2.el7                                                   epel    
 dhcpd-pools.x86_64                                                  3.2-1.el7                                                     epel    
+dhcpdump.x86_64                                                     1.9-1.el7                                                     epel    
 dhcping.x86_64                                                      1.2-13.el7                                                    epel    
 dhtest.x86_64                                                       1.5-2.el7                                                     epel    
 dia.x86_64                                                          1:0.97.3-19.el7                                               epel    
@@ -15577,7 +15578,6 @@ python-narcissus-common.noarch                                      0.9.0.1-3.el
 python-narcissus-hub.noarch                                         0.9.0.1-3.el7                                                 epel    
 python-nbxmpp.noarch                                                0.5.6-1.el7                                                   epel    
 python-nbxmpp-doc.noarch                                            0.5.6-1.el7                                                   epel    
-python-ncclient.noarch                                              0.4.2-2.el7                                                   epel    
 python-ndg_httpsclient.noarch                                       0.3.2-1.el7                                                   epel    
 python-netaddr.noarch                                               0.7.5-9.an7                                                   os      
 python-netifaces.x86_64                                             0.10.4-3.an7                                                  os      
@@ -16247,6 +16247,7 @@ python2-multilib.noarch                                             1.2-3.el7   
 python2-munkres.noarch                                              1.0.8-1.el7                                                   epel    
 python2-mwclient.noarch                                             0.9.3-3.el7                                                   epel    
 python2-nbformat.noarch                                             4.4.0-2.el7                                                   epel    
+python2-ncclient.noarch                                             0.4.2-16.el7                                                  epel    
 python2-neomodel.noarch                                             3.3.0-1.el7                                                   epel    
 python2-neovim.noarch                                               0.3.2-1.el7                                                   epel    
 python2-netcdf4.x86_64                                              1.2.7-4.el7                                                   epel    
@@ -16522,7 +16523,7 @@ python3-libcomps.x86_64                                             0.1.8-14.an7
 python3-libs.x86_64                                                 3.6.8-19.an7                                                  updates 
 python3-mod_wsgi.x86_64                                             4.7.1-3.el7                                                   epel    
 python3-nagiosplugin.noarch                                         1.3.3-1.el7                                                   epel    
-python3-ncclient-doc.noarch                                         0.6.13-1.el7                                                  epel    
+python3-ncclient-doc.noarch                                         0.6.15-1.el7                                                  epel    
 python3-other-rpm-macros.noarch                                     3-26.el7                                                      epel    
 python3-pip.noarch                                                  9.0.3-8.an7                                                   os      
 python3-psycopg2.x86_64                                             2.7.7-2.el7                                                   epel    
@@ -16889,7 +16890,7 @@ python36-multilib.noarch                                            1.2-3.el7   
 python36-mysql.x86_64                                               1.3.14-1.el7                                                  epel    
 python36-mysql-debug.x86_64                                         1.3.14-1.el7                                                  epel    
 python36-nbformat.noarch                                            4.4.0-2.el7                                                   epel    
-python36-ncclient.noarch                                            0.6.13-1.el7                                                  epel    
+python36-ncclient.noarch                                            0.6.15-1.el7                                                  epel    
 python36-neovim.noarch                                              0.3.2-1.el7                                                   epel    
 python36-netaddr.noarch                                             0.7.18-4.el7                                                  epel    
 python36-netcdf4.x86_64                                             1.2.7-4.el7                                                   epel    
