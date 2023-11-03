@@ -8,23 +8,23 @@ cd $CMD_PATH
 
 cd ~
 if [ ! -d openos365-00002-ci-github-actions-template ];then
-    git clone --depth=1 https://ghproxy.com/github.com/openos365/openos365-00002-ci-github-actions-template.git
+    git clone --depth=1 https://github.com/openos365/openos365-00002-ci-github-actions-template.git
 fi
+if [ -d openos365-00002-ci-github-actions-template ];then
+    cd openos365-00002-ci-github-actions-template
+    if [ -z $1 ];then
+        git pull origin main
+    fi
 
-cd openos365-00002-ci-github-actions-template
-if [ -z $1 ];then
-    git pull origin main
+    cd $CMD_PATH
+    # rm -rf 8.workflows.to.run.repos.txt
+    touch 8.workflows.to.run.repos.txt
+
+    rsync -avzP \
+    --exclude=".git" \
+    --exclude="8.workflows.to.run.repos.txt" \
+    --exclude="README.md" \
+    ~/openos365-00002-ci-github-actions-template/ \
+    $CMD_PATH/
 fi
-
-cd $CMD_PATH
-# rm -rf 8.workflows.to.run.repos.txt
-touch 8.workflows.to.run.repos.txt
-
-rsync -avzP \
---exclude=".git" \
---exclude="8.workflows.to.run.repos.txt" \
---exclude="README.md" \
-~/openos365-00002-ci-github-actions-template/ \
-$CMD_PATH/
-
 echo "============================================================================"
