@@ -836,8 +836,8 @@ amavisd-milter.x86_64                                               1.7.2-1.el7 
 amiri-fonts.noarch                                                  0.113-1.el7                                                   epel    
 amiri-fonts-common.noarch                                           0.113-1.el7                                                   epel    
 amiri-quran-fonts.noarch                                            0.113-1.el7                                                   epel    
-ampache_browser.x86_64                                              1.0.2-6.el7                                                   epel    
-ampache_browser-devel.x86_64                                        1.0.2-6.el7                                                   epel    
+ampache_browser.x86_64                                              1.0.6-1.el7                                                   epel    
+ampache_browser-devel.x86_64                                        1.0.6-1.el7                                                   epel    
 amqp.noarch                                                         1:1.0-2.20150624svn1687244.el7                                epel    
 amqp-devel.noarch                                                   1:1.0-2.20150624svn1687244.el7                                epel    
 amtterm.x86_64                                                      1.6-1.el7                                                     epel    
@@ -1077,7 +1077,7 @@ artwiz-aleczapka-mints-strong-fonts.noarch                          1.3-19.el7  
 artwiz-aleczapka-nu-fonts.noarch                                    1.3-19.el7                                                    epel    
 artwiz-aleczapka-smoothansi-fonts.noarch                            1.3-19.el7                                                    epel    
 artwiz-aleczapka-snap-fonts.noarch                                  1.3-19.el7                                                    epel    
-ascii.x86_64                                                        3.15-1.el7                                                    epel    
+ascii.x86_64                                                        3.18-15.el7                                                   epel    
 ascii-design.x86_64                                                 1.1.1-1.el7                                                   epel    
 asciidoc.noarch                                                     8.6.8-5.an7                                                   os      
 asciidoc-doc.noarch                                                 8.6.8-5.an7                                                   os      
@@ -8579,8 +8579,8 @@ libopendkim.x86_64                                                  2.11.0-0.1.e
 libopendkim-devel.x86_64                                            2.11.0-0.1.el7                                                epel    
 libopendmarc.x86_64                                                 1.4.1.1-3.el7                                                 epel    
 libopendmarc-devel.x86_64                                           1.4.1.1-3.el7                                                 epel    
-libopenmpt.x86_64                                                   0.6.11-1.el7                                                  epel    
-libopenmpt-devel.x86_64                                             0.6.11-1.el7                                                  epel    
+libopenmpt.x86_64                                                   0.6.12-1.el7                                                  epel    
+libopenmpt-devel.x86_64                                             0.6.12-1.el7                                                  epel    
 libopenraw.x86_64                                                   0.0.9-7.an7                                                   os      
 libopenraw-devel.x86_64                                             0.0.9-7.an7                                                   os      
 libopenraw-gnome.x86_64                                             0.0.9-7.an7                                                   os      
@@ -8938,9 +8938,9 @@ librepository-javadoc.noarch                                        1.1.3-9.an7 
 libresample.x86_64                                                  0.1.3-33.el7                                                  epel    
 libresample-devel.x86_64                                            0.1.3-33.el7                                                  epel    
 libreswan.x86_64                                                    3.25-9.1.an7                                                  updates 
-libretls.x86_64                                                     3.7.0-1.el7                                                   epel    
-libretls-devel.x86_64                                               3.7.0-1.el7                                                   epel    
-libretls-static.x86_64                                              3.7.0-1.el7                                                   epel    
+libretls.x86_64                                                     3.8.1-1.el7                                                   epel    
+libretls-devel.x86_64                                               3.8.1-1.el7                                                   epel    
+libretls-static.x86_64                                              3.8.1-1.el7                                                   epel    
 librevenge.x86_64                                                   0.0.2-2.an7                                                   os      
 librevenge-devel.x86_64                                             0.0.2-2.an7                                                   os      
 librevenge-doc.noarch                                               0.0.2-2.an7                                                   os      
@@ -10822,7 +10822,7 @@ net-tools.x86_64                                                    2.0-0.25.201
 netatalk.x86_64                                                     5:3.1.18-1.el7                                                epel    
 netatalk-devel.x86_64                                               5:3.1.18-1.el7                                                epel    
 netbsd-iscsi.x86_64                                                 20080207-9.el7                                                epel    
-netcat.x86_64                                                       1.225-1.el7                                                   epel    
+netcat.x86_64                                                       1.225-3.el7                                                   epel    
 netcdf.x86_64                                                       4.3.3.1-5.el7                                                 epel    
 netcdf-cxx.x86_64                                                   4.2-8.el7                                                     epel    
 netcdf-cxx-devel.x86_64                                             4.2-8.el7                                                     epel    
@@ -11604,7 +11604,7 @@ nwchem.x86_64                                                       7.0.2-4.el7 
 nwchem-common.noarch                                                7.0.2-4.el7                                                   epel    
 nwchem-mpich.x86_64                                                 7.0.2-4.el7                                                   epel    
 nwchem-openmpi.x86_64                                               7.0.2-4.el7                                                   epel    
-nwipe.x86_64                                                        0.34-2.el7                                                    epel    
+nwipe.x86_64                                                        0.35-2.el7                                                    epel    
 nx-libs.x86_64                                                      3.5.99.26-1.el7                                               epel    
 nx-libs-devel.x86_64                                                3.5.99.26-1.el7                                               epel    
 nx-proto-devel.x86_64                                               3.5.99.26-1.el7                                               epel    
@@ -11923,7 +11923,7 @@ openmpi.x86_64                                                      1.10.7-5.an7
 openmpi-devel.x86_64                                                1.10.7-5.an7                                                  os      
 openmpi3.x86_64                                                     3.1.3-2.an7                                                   os      
 openmpi3-devel.x86_64                                               3.1.3-2.an7                                                   os      
-openmpt123.x86_64                                                   0.6.11-1.el7                                                  epel    
+openmpt123.x86_64                                                   0.6.12-1.el7                                                  epel    
 openmx-common.noarch                                                3.8.1-9.el7                                                   epel    
 openmx-data.noarch                                                  3.8.1-9.el7                                                   epel    
 openmx-mpich.x86_64                                                 3.8.1-9.el7                                                   epel    
@@ -17511,9 +17511,9 @@ rabbitmq-java-client-doc.noarch                                     3.6.0-1.el7 
 rabbitmq-java-client-javadoc.noarch                                 3.6.0-1.el7                                                   epel    
 rabbitmq-server.noarch                                              3.3.5-34.el7                                                  epel    
 racoon2.x86_64                                                      20100526a-28.el7                                              epel    
-radare2.x86_64                                                      5.8.8-1.el7                                                   epel    
-radare2-common.noarch                                               5.8.8-1.el7                                                   epel    
-radare2-devel.x86_64                                                5.8.8-1.el7                                                   epel    
+radare2.x86_64                                                      5.8.8-2.el7                                                   epel    
+radare2-common.noarch                                               5.8.8-2.el7                                                   epel    
+radare2-devel.x86_64                                                5.8.8-2.el7                                                   epel    
 radcli.x86_64                                                       1.2.12-1.el7                                                  epel    
 radcli-compat-devel.x86_64                                          1.2.12-1.el7                                                  epel    
 radcli-devel.x86_64                                                 1.2.12-1.el7                                                  epel    
@@ -17821,7 +17821,7 @@ rpcbind.x86_64                                                      0.2.0-49.an7
 rpkg.noarch                                                         0.14-1.el7                                                    epel    
 rpkg-common.noarch                                                  1.66-11.el7                                                   epel    
 rpkg-macros.noarch                                                  2.0-1.el7                                                     epel    
-rpki-client.x86_64                                                  8.6-1.el7                                                     epel    
+rpki-client.x86_64                                                  8.6-2.el7                                                     epel    
 rpl.noarch                                                          1.5.7-3.el7                                                   epel    
 rpm-apidocs.noarch                                                  4.11.3-48.an7                                                 updates 
 rpm-cron.noarch                                                     4.11.3-48.an7                                                 updates 
@@ -20294,8 +20294,8 @@ trousers-static.x86_64                                              0.3.14-2.an7
 trustedqsl.x86_64                                                   2.5.1-1.el7                                                   epel    
 tslib.x86_64                                                        1.0-10.el7                                                    epel    
 tslib-devel.x86_64                                                  1.0-10.el7                                                    epel    
-tsung.x86_64                                                        1.8.0-2.el7                                                   epel    
-tsung-doc.noarch                                                    1.8.0-2.el7                                                   epel    
+tsung.x86_64                                                        1.8.0-3.el7                                                   epel    
+tsung-doc.noarch                                                    1.8.0-3.el7                                                   epel    
 ttembed.x86_64                                                      1.1-3.el7                                                     epel    
 ttf2pt1.x86_64                                                      3.4.4-17.el7                                                  epel    
 ttmkfdir.x86_64                                                     3.0.9-42.an7                                                  os      
@@ -20422,8 +20422,8 @@ unixODBC.x86_64                                                     2.3.1-14.an7
 unixODBC-devel.x86_64                                               2.3.1-14.an7                                                  os      
 unoconv.noarch                                                      0.6-8.an7                                                     os      
 unpaper.x86_64                                                      0.3-12.el7                                                    epel    
-unrealircd.x86_64                                                   6.1.1.1-1.el7                                                 epel    
-unrealircd-maxmind.x86_64                                           6.1.1.1-1.el7                                                 epel    
+unrealircd.x86_64                                                   6.1.2.3-2.el7                                                 epel    
+unrealircd-maxmind.x86_64                                           6.1.2.3-2.el7                                                 epel    
 unrtf.x86_64                                                        0.21.9-8.el7                                                  epel    
 unuran.x86_64                                                       1.8.1-1.el7                                                   epel    
 unuran-devel.x86_64                                                 1.8.1-1.el7                                                   epel    
