@@ -18904,7 +18904,7 @@ squid.x86_64                                                        7:3.5.20-17.
 squid-migration-script.x86_64                                       7:3.5.20-17.an7.8                                             updates 
 squid-sysvinit.x86_64                                               7:3.5.20-17.an7.8                                             updates 
 squidGuard.x86_64                                                   1.4-36.el7                                                    epel    
-squidclamav.x86_64                                                  7.2-4.el7                                                     epel    
+squidclamav.x86_64                                                  7.3-1.el7                                                     epel    
 squirrel.x86_64                                                     2.2.5-5.el7                                                   epel    
 squirrel-devel.x86_64                                               2.2.5-5.el7                                                   epel    
 squirrel-libs.x86_64                                                2.2.5-5.el7                                                   epel    
