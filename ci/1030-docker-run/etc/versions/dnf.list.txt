@@ -7627,9 +7627,9 @@ libXxf86vm.x86_64                                                   1.1.4-1.an7 
 libXxf86vm-devel.x86_64                                             1.1.4-1.an7                                                   os      
 liba52.x86_64                                                       0.7.4-27.el7                                                  epel    
 liba52-devel.x86_64                                                 0.7.4-27.el7                                                  epel    
-libabigail.x86_64                                                   2.4-1.el7                                                     epel    
-libabigail-devel.x86_64                                             2.4-1.el7                                                     epel    
-libabigail-doc.x86_64                                               2.4-1.el7                                                     epel    
+libabigail.x86_64                                                   2.4-3.el7                                                     epel    
+libabigail-devel.x86_64                                             2.4-3.el7                                                     epel    
+libabigail-doc.x86_64                                               2.4-3.el7                                                     epel    
 libabw.x86_64                                                       0.1.1-2.an7                                                   os      
 libabw-devel.x86_64                                                 0.1.1-2.an7                                                   os      
 libabw-doc.noarch                                                   0.1.1-2.an7                                                   os      
@@ -12621,6 +12621,7 @@ perl-Crypt-Eksblowfish.x86_64                                       0.009-11.el7
 perl-Crypt-GPG.noarch                                               1.64-19.el7                                                   epel    
 perl-Crypt-GeneratePassword.noarch                                  0.04-2.el7                                                    epel    
 perl-Crypt-IDEA.x86_64                                              1.10-5.el7                                                    epel    
+perl-Crypt-JWT.noarch                                               0.035-2.el7                                                   epel    
 perl-Crypt-MySQL.x86_64                                             0.04-1.el7                                                    epel    
 perl-Crypt-OpenSSL-Bignum.x86_64                                    0.04-18.an7                                                   os      
 perl-Crypt-OpenSSL-RSA.x86_64                                       0.28-7.an7                                                    os      
@@ -16391,7 +16392,7 @@ python2-rosdistro.noarch                                            0.9.0-1.el7 
 python2-rosinstall_generator.noarch                                 0.1.23-1.el7                                                  epel    
 python2-rospkg.noarch                                               1.5.0-1.el7                                                   epel    
 python2-rpdb.noarch                                                 0.1.5-3.el7.1                                                 epel    
-python2-rpkg.noarch                                                 1.66-11.el7                                                   epel    
+python2-rpkg.noarch                                                 1.66-13.el7                                                   epel    
 python2-rpm-head-signing.x86_64                                     1.5.1-1.el7                                                   epel    
 python2-rpm-macros.noarch                                           3-34.an7                                                      os      
 python2-rpmdeplint.noarch                                           1.4-1.el7                                                     epel    
@@ -17821,7 +17822,7 @@ routino-libs.x86_64                                                 3.0-3.el7   
 rp-pppoe.x86_64                                                     3.11-7.an7                                                    os      
 rpcbind.x86_64                                                      0.2.0-49.an7                                                  os      
 rpkg.noarch                                                         0.14-1.el7                                                    epel    
-rpkg-common.noarch                                                  1.66-11.el7                                                   epel    
+rpkg-common.noarch                                                  1.66-13.el7                                                   epel    
 rpkg-macros.noarch                                                  2.0-1.el7                                                     epel    
 rpki-client.x86_64                                                  8.6-2.el7                                                     epel    
 rpl.noarch                                                          1.5.7-3.el7                                                   epel    
