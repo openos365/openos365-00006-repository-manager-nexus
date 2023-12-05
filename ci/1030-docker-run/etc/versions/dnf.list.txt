@@ -567,7 +567,7 @@ R-java.x86_64                                                       3.6.0-1.el7 
 R-java-devel.x86_64                                                 3.6.0-1.el7                                                   epel    
 R-littler.x86_64                                                    0.3.18-1.el7                                                  epel    
 R-littler-examples.x86_64                                           0.3.18-1.el7                                                  epel    
-R-qtl.x86_64                                                        1.60-1.el7                                                    epel    
+R-qtl.x86_64                                                        1.62-1.el7                                                    epel    
 R-rlecuyer.x86_64                                                   0.3.5-7.el7                                                   epel    
 R2spec.noarch                                                       4.2.1-1.el7                                                   epel    
 RBTools.noarch                                                      2.0.1-0.1.el7                                                 epel    
