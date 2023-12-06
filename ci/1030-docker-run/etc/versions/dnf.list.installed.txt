@@ -103,8 +103,8 @@ intltool.noarch                         0.50.2-7.an7                    @os
 iputils.x86_64                          20160308-10.an7                 @System 
 json-c.x86_64                           0.11-4.0.1.an7                  @System 
 json-glib.x86_64                        1.4.2-2.an7                     @System 
-kernel-debug-devel.x86_64               3.10.0-1160.102.1.0.1.an7       @updates
-kernel-headers.x86_64                   3.10.0-1160.102.1.0.1.an7       @updates
+kernel-debug-devel.x86_64               4.19.91-27.7.an7                @updates
+kernel-headers.x86_64                   4.19.91-27.7.an7                @updates
 keyutils.x86_64                         1.5.8-3.an7                     @System 
 keyutils-libs.x86_64                    1.5.8-3.an7                     @System 
 kmod.x86_64                             20-28.an7                       @System 
