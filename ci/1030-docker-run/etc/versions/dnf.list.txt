@@ -20907,7 +20907,7 @@ ws-xmlschema.noarch                                                 2.2.1-2.el7 
 ws-xmlschema-javadoc.noarch                                         2.2.1-2.el7                                                   epel    
 ws-xmlschema-parent.noarch                                          2.2.1-2.el7                                                   epel    
 ws-xmlschema-walker.noarch                                          2.2.1-2.el7                                                   epel    
-wsdd.noarch                                                         0.7.0-1.el7                                                   epel    
+wsdd.noarch                                                         0.7.1-1.el7                                                   epel    
 wsdl4j.noarch                                                       1.6.3-3.an7                                                   os      
 wsdl4j-javadoc.noarch                                               1.6.3-3.an7                                                   os      
 wsjtx.x86_64                                                        2.1.2-3.el7                                                   epel    
