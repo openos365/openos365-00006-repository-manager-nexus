@@ -3765,9 +3765,6 @@ ftplib-devel.x86_64                                                 4.0-4.el7   
 fts-client.x86_64                                                   3.12.0-1.el7                                                  epel    
 fts-infosys.x86_64                                                  3.12.0-1.el7                                                  epel    
 fts-libs.x86_64                                                     3.12.0-1.el7                                                  epel    
-fts-monitoring.noarch                                               3.8.3-1.el7                                                   epel    
-fts-monitoring-firewalld.noarch                                     3.8.3-1.el7                                                   epel    
-fts-monitoring-selinux.noarch                                       3.8.3-1.el7                                                   epel    
 fts-msg.x86_64                                                      3.12.0-1.el7                                                  epel    
 fts-mysql.x86_64                                                    3.12.0-1.el7                                                  epel    
 fts-rest-client.noarch                                              3.12.3-1.el7                                                  epel    
@@ -16391,7 +16388,7 @@ python2-rosdistro.noarch                                            0.9.0-1.el7 
 python2-rosinstall_generator.noarch                                 0.1.23-1.el7                                                  epel    
 python2-rospkg.noarch                                               1.5.0-1.el7                                                   epel    
 python2-rpdb.noarch                                                 0.1.5-3.el7.1                                                 epel    
-python2-rpkg.noarch                                                 1.66-13.el7                                                   epel    
+python2-rpkg.noarch                                                 1.66-14.el7                                                   epel    
 python2-rpm-head-signing.x86_64                                     1.5.1-1.el7                                                   epel    
 python2-rpm-macros.noarch                                           3-34.an7                                                      os      
 python2-rpmdeplint.noarch                                           1.4-1.el7                                                     epel    
@@ -16904,7 +16901,7 @@ python36-olefile.noarch                                             0.46-2.el7  
 python36-oletools.noarch                                            0.56.2-1.el7                                                  epel    
 python36-openmeeg.x86_64                                            2.4.2-0.13.el7                                                epel    
 python36-openqa_client.noarch                                       3.0.4-1.el7                                                   epel    
-python36-opensearch-py.noarch                                       2.2.0-1.el7                                                   epel    
+python36-opensearch-py.noarch                                       2.4.2-2.el7                                                   epel    
 python36-osrf-pycommon.noarch                                       0.2.1-1.el7                                                   epel    
 python36-otf2.x86_64                                                2.2-4.el7                                                     epel    
 python36-packaging.noarch                                           16.8-6.el7                                                    epel    
@@ -17822,7 +17819,7 @@ routino-libs.x86_64                                                 3.0-3.el7   
 rp-pppoe.x86_64                                                     3.11-7.an7                                                    os      
 rpcbind.x86_64                                                      0.2.0-49.an7                                                  os      
 rpkg.noarch                                                         0.14-1.el7                                                    epel    
-rpkg-common.noarch                                                  1.66-13.el7                                                   epel    
+rpkg-common.noarch                                                  1.66-14.el7                                                   epel    
 rpkg-macros.noarch                                                  2.0-1.el7                                                     epel    
 rpki-client.x86_64                                                  8.6-2.el7                                                     epel    
 rpl.noarch                                                          1.5.7-3.el7                                                   epel    
