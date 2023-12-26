@@ -20427,8 +20427,8 @@ unixODBC.x86_64                                                     2.3.1-14.an7
 unixODBC-devel.x86_64                                               2.3.1-14.an7                                                  os      
 unoconv.noarch                                                      0.6-8.an7                                                     os      
 unpaper.x86_64                                                      0.3-12.el7                                                    epel    
-unrealircd.x86_64                                                   6.1.3-1.el7                                                   epel    
-unrealircd-maxmind.x86_64                                           6.1.3-1.el7                                                   epel    
+unrealircd.x86_64                                                   6.1.4-1.el7                                                   epel    
+unrealircd-maxmind.x86_64                                           6.1.4-1.el7                                                   epel    
 unrtf.x86_64                                                        0.21.9-8.el7                                                  epel    
 unuran.x86_64                                                       1.8.1-1.el7                                                   epel    
 unuran-devel.x86_64                                                 1.8.1-1.el7                                                   epel    
