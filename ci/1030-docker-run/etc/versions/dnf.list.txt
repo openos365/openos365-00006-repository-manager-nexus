@@ -13862,7 +13862,7 @@ php-PHPParser.noarch                                                1.4.1-1.el7 
 php-PhpCollection.noarch                                            0.5.0-1.el7                                                   epel    
 php-PhpOption.noarch                                                1.5.0-1.el7                                                   epel    
 php-PsrLog.noarch                                                   1.1.3-1.el7                                                   epel    
-php-Smarty.noarch                                                   3.1.47-1.el7                                                  epel    
+php-Smarty.noarch                                                   3.1.48-2.el7                                                  epel    
 php-SymfonyCmfRouting.noarch                                        1.4.1-1.el7                                                   epel    
 php-ZendFramework.noarch                                            1.12.20-1.el7                                                 epel    
 php-ZendFramework-Auth-Adapter-Ldap.noarch                          1.12.20-1.el7                                                 epel    
@@ -21538,9 +21538,9 @@ zbar-gtk-devel.x86_64                                               0.10-27.el7 
 zbar-pygtk.x86_64                                                   0.10-27.el7                                                   epel    
 zbar-qt.x86_64                                                      0.10-27.el7                                                   epel    
 zbar-qt-devel.x86_64                                                0.10-27.el7                                                   epel    
-zchunk.x86_64                                                       1.3.2-1.el7                                                   epel    
-zchunk-devel.x86_64                                                 1.3.2-1.el7                                                   epel    
-zchunk-libs.x86_64                                                  1.3.2-1.el7                                                   epel    
+zchunk.x86_64                                                       1.4.0-1.el7                                                   epel    
+zchunk-devel.x86_64                                                 1.4.0-1.el7                                                   epel    
+zchunk-libs.x86_64                                                  1.4.0-1.el7                                                   epel    
 zenity.x86_64                                                       3.28.1-2.an7                                                  updates 
 zerofree.x86_64                                                     1.1.1-1.el7                                                   epel    
 zeromq.x86_64                                                       4.1.4-6.el7                                                   epel    
