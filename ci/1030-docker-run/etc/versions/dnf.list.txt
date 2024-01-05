@@ -6326,8 +6326,8 @@ isdn4k-utils-static.x86_64                                          3.2-99.an7  
 isdn4k-utils-vboxgetty.x86_64                                       3.2-99.an7                                                    os      
 islamic-menus.noarch                                                1.0.6-4.el7                                                   epel    
 isns-utils.x86_64                                                   0.93-7.an7                                                    os      
-iso-codes.noarch                                                    3.46-2.an7                                                    os      
-iso-codes-devel.noarch                                              3.46-2.an7                                                    os      
+iso-codes.noarch                                                    3.46-2.0.1.an7                                                updates 
+iso-codes-devel.noarch                                              3.46-2.0.1.an7                                                updates 
 iso-country-flags.noarch                                            0-0.1.20170202git1d382a9.el7                                  epel    
 isomd5sum.x86_64                                                    1:1.0.10-5.an7                                                os      
 isomd5sum-devel.x86_64                                              1:1.0.10-5.an7                                                os      
@@ -7423,9 +7423,9 @@ lammps-openmpi.x86_64                                               20190807-2.e
 lammps-openmpi-devel.x86_64                                         20190807-2.el7                                                epel    
 lammps-openmpi3.x86_64                                              20190807-2.el7                                                epel    
 lammps-openmpi3-devel.x86_64                                        20190807-2.el7                                                epel    
-langtable.noarch                                                    0.0.31-4.an7                                                  os      
-langtable-data.noarch                                               0.0.31-4.an7                                                  os      
-langtable-python.noarch                                             0.0.31-4.an7                                                  os      
+langtable.noarch                                                    0.0.31-4.0.1.an7                                              updates 
+langtable-data.noarch                                               0.0.31-4.0.1.an7                                              updates 
+langtable-python.noarch                                             0.0.31-4.0.1.an7                                              updates 
 lapack.x86_64                                                       3.4.2-8.an7                                                   os      
 lapack-devel.x86_64                                                 3.4.2-8.an7                                                   os      
 lapack-static.x86_64                                                3.4.2-8.an7                                                   os      
