@@ -38,6 +38,12 @@ jobs:
           registry: dockerhub.qingcloud.com
           username: ${{ secrets.OPENOS365_DOCKERHUB_QINGCLOUD_USER }}
           password: ${{ secrets.OPENOS365_DOCKERHUB_QINGCLOUD_PASSWORD }}
+      - name: Login to Aliyun Packages
+        uses: docker/login-action@v2
+        with:
+          registry: registry.cn-hangzhou.aliyuncs.com
+          username: ${{ secrets.OPENOS365_ALI_USER }}
+          password: ${{ secrets.OPENOS365_ALI_PASSWORD }}
       - name: run 1.ci.caller.sh
         env:
           GITHUB_TOKEN: ${{ secrets.OPENOS365_GITHUB_TOKEN }}
