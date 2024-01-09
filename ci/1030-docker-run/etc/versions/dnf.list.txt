@@ -11541,6 +11541,7 @@ nsca-ng-client.x86_64                                               1.6-1.el7   
 nsca-ng-server.x86_64                                               1.6-1.el7                                                     epel    
 nscd.x86_64                                                         2.17-326.an7                                                  updates 
 nsd.x86_64                                                          4.2.4-1.el7                                                   epel    
+nsnake.x86_64                                                       3.0.1-17.el7                                                  epel    
 nspr-devel.x86_64                                                   4.35.0-1.an7                                                  updates 
 nss-devel.x86_64                                                    3.90.0-2.an7                                                  updates 
 nss-mdns.x86_64                                                     0.14.1-9.el7                                                  epel    
@@ -13460,7 +13461,7 @@ perl-Sort-MergeSort.noarch                                          0.31-2.el7  
 perl-Sort-Naturally.noarch                                          1.03-8.el7                                                    epel    
 perl-Sort-Versions.noarch                                           1.5-22.an7                                                    os      
 perl-Spiffy.noarch                                                  0.31-3.el7                                                    epel    
-perl-Spreadsheet-ParseExcel.x86_64                                  0.5900-8.el7                                                  epel    
+perl-Spreadsheet-ParseExcel.x86_64                                  0.6600-1.el7                                                  epel    
 perl-Spreadsheet-WriteExcel.noarch                                  2.40-1.el7                                                    epel    
 perl-Spreadsheet-XLSX.noarch                                        0.17-1.el7                                                    epel    
 perl-Statistics-Basic.noarch                                        1.6611-3.el7                                                  epel    
@@ -21301,9 +21302,9 @@ xqilla-devel.x86_64                                                 2.2.4-7.el7 
 xqilla-doc.noarch                                                   2.2.4-7.el7                                                   epel    
 xrdcl-http.x86_64                                                   1:5.6.4-1.el7                                                 epel    
 xrdhttpvoms.x86_64                                                  0.2.5-2.el7                                                   epel    
-xrdp.x86_64                                                         1:0.9.23.1-1.el7                                              epel    
-xrdp-devel.x86_64                                                   1:0.9.23.1-1.el7                                              epel    
-xrdp-selinux.x86_64                                                 1:0.9.23.1-1.el7                                              epel    
+xrdp.x86_64                                                         1:0.9.24-1.el7                                                epel    
+xrdp-devel.x86_64                                                   1:0.9.24-1.el7                                                epel    
+xrdp-selinux.x86_64                                                 1:0.9.24-1.el7                                                epel    
 xreader.x86_64                                                      1.6.2-2.el7                                                   epel    
 xreader-devel.x86_64                                                1.6.2-2.el7                                                   epel    
 xreader-doc.noarch                                                  1.6.2-2.el7                                                   epel    
