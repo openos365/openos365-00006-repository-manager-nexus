@@ -2763,8 +2763,8 @@ distcc.x86_64                                                       3.2rc1-22.el
 distcc-gnome.x86_64                                                 3.2rc1-22.el7                                                 epel    
 distcc-server.x86_64                                                3.2rc1-22.el7                                                 epel    
 distgen.noarch                                                      1.17-1.el7                                                    epel    
-distribution-gpg-keys.noarch                                        1.99-1.el7                                                    epel    
-distribution-gpg-keys-copr.noarch                                   1.99-1.el7                                                    epel    
+distribution-gpg-keys.noarch                                        1.100-1.el7                                                   epel    
+distribution-gpg-keys-copr.noarch                                   1.100-1.el7                                                   epel    
 djvulibre.x86_64                                                    3.5.25.3-24.el7                                               epel    
 djvulibre-devel.x86_64                                              3.5.25.3-24.el7                                               epel    
 djvulibre-libs.x86_64                                               3.5.25.3-24.el7                                               epel    
@@ -5608,7 +5608,7 @@ gtkspell.x86_64                                                     2.0.16-8.an7
 gtkspell-devel.x86_64                                               2.0.16-8.an7                                                  os      
 gtkspell3.x86_64                                                    3.0.3-4.an7                                                   os      
 gtkspell3-devel.x86_64                                              3.0.3-4.an7                                                   os      
-gtkwave.x86_64                                                      3.3.61-1.el7                                                  epel    
+gtkwave.x86_64                                                      3.3.118-1.el7                                                 epel    
 guacd.x86_64                                                        1:1.5.4-1.el7                                                 epel    
 guake.noarch                                                        0.8.7-1.el7                                                   epel    
 guava.noarch                                                        13.0-6.an7                                                    os      
