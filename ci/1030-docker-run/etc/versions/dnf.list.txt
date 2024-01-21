@@ -555,9 +555,9 @@ R-RInside.x86_64                                                    0.2.18-1.el7
 R-RInside-devel.x86_64                                              0.2.18-1.el7                                                  epel    
 R-RInside-examples.x86_64                                           0.2.18-1.el7                                                  epel    
 R-RUnit.noarch                                                      0.4.32-1.el7                                                  epel    
-R-Rcpp.x86_64                                                       1.0.11-3.el7                                                  epel    
-R-Rcpp-devel.x86_64                                                 1.0.11-3.el7                                                  epel    
-R-Rcpp-examples.x86_64                                              1.0.11-3.el7                                                  epel    
+R-Rcpp.x86_64                                                       1.0.12-1.el7                                                  epel    
+R-Rcpp-devel.x86_64                                                 1.0.12-1.el7                                                  epel    
+R-Rcpp-examples.x86_64                                              1.0.12-1.el7                                                  epel    
 R-core.x86_64                                                       3.6.0-1.el7                                                   epel    
 R-core-devel.x86_64                                                 3.6.0-1.el7                                                   epel    
 R-devel.x86_64                                                      3.6.0-1.el7                                                   epel    
