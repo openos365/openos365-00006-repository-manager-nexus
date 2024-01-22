@@ -16816,7 +16816,7 @@ python36-idna.noarch                                                2.10-1.el7  
 python36-idstools.noarch                                            0.6.4-1.el7                                                   epel    
 python36-ifcfg.noarch                                               0.21-1.el7                                                    epel    
 python36-impacket.noarch                                            0.10.0-1.el7                                                  epel    
-python36-importlib-metadata.noarch                                  0.23-4.el7                                                    epel    
+python36-importlib-metadata.noarch                                  0.23-5.el7                                                    epel    
 python36-importlib-resources.noarch                                 1.0.2-2.el7                                                   epel    
 python36-ipython_genutils.noarch                                    0.1.0-8.el7                                                   epel    
 python36-iso3166.noarch                                             1.0.1-1.el7                                                   epel    
@@ -20318,7 +20318,7 @@ tuned-profiles-oracle.noarch                                        2.11.0-12.an
 tuned-utils.noarch                                                  2.11.0-12.an7                                                 updates 
 tuned-utils-systemtap.noarch                                        2.11.0-12.an7                                                 updates 
 tunneler.x86_64                                                     1.1.1-13.el7                                                  epel    
-tuptime.noarch                                                      5.2.2-1.el7                                                   epel    
+tuptime.noarch                                                      5.2.3-1.el7                                                   epel    
 turbojpeg.x86_64                                                    1.2.90-8.an7                                                  os      
 turbojpeg-devel.x86_64                                              1.2.90-8.an7                                                  os      
 tuxcut.noarch                                                       5.1-2.el7                                                     epel    
