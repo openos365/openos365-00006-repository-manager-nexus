@@ -11731,10 +11731,10 @@ ogdi.x86_64                                                         3.2.0-0.19.b
 ogdi-devel.x86_64                                                   3.2.0-0.19.beta2.el7                                          epel    
 ogdi-odbc.x86_64                                                    3.2.0-0.19.beta2.el7                                          epel    
 ogdi-tcl.x86_64                                                     3.2.0-0.19.beta2.el7                                          epel    
-oidc-agent-cli.x86_64                                               5.0.1-1.el7                                                   epel    
-oidc-agent-desktop.x86_64                                           5.0.1-1.el7                                                   epel    
-oidc-agent-devel.x86_64                                             5.0.1-1.el7                                                   epel    
-oidc-agent-libs.x86_64                                              5.0.1-1.el7                                                   epel    
+oidc-agent-cli.x86_64                                               5.1.0-1.el7                                                   epel    
+oidc-agent-desktop.x86_64                                           5.1.0-1.el7                                                   epel    
+oidc-agent-devel.x86_64                                             5.1.0-1.el7                                                   epel    
+oidc-agent-libs.x86_64                                              5.1.0-1.el7                                                   epel    
 oidentd.x86_64                                                      2.0.8-20.el7                                                  epel    
 okular.x86_64                                                       4.10.5-9.an7                                                  os      
 okular-devel.x86_64                                                 4.10.5-9.an7                                                  os      
