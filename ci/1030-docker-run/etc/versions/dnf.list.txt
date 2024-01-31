@@ -15016,7 +15016,7 @@ protobuf-python.x86_64                                              2.5.0-8.an7 
 protobuf-static.x86_64                                              2.5.0-8.an7                                                   os      
 protobuf-vim.x86_64                                                 2.5.0-8.an7                                                   os      
 protonvpn-cli.noarch                                                2.2.11-7.el7                                                  epel    
-proxychains-ng.x86_64                                               4.16-1.el7                                                    epel    
+proxychains-ng.x86_64                                               4.17-1.el7                                                    epel    
 prwd.x86_64                                                         1.9.1-1.el7                                                   epel    
 ps2eps.x86_64                                                       1.68-5.el7                                                    epel    
 ps_mem.noarch                                                       3.1-7.an7                                                     os      
@@ -17086,6 +17086,7 @@ python36-trololio.noarch                                            1.0-2.el7   
 python36-typing.noarch                                              3.5.2.2-4.el7                                                 epel    
 python36-tzlocal.noarch                                             1.2-3.el7                                                     epel    
 python36-unidiff.noarch                                             0.7.3-2.el7                                                   epel    
+python36-untangle.noarch                                            1.2.1-2.el7                                                   epel    
 python36-uritemplate.noarch                                         3.0.1-1.el7                                                   epel    
 python36-urllib-gssapi.noarch                                       1.0.1-10.el7                                                  epel    
 python36-urllib3.noarch                                             1.25.6-2.el7                                                  epel    
