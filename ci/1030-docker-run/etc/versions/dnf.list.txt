@@ -20153,7 +20153,7 @@ tinyxml2-devel.x86_64                                               2.1.0-2.2014
 tio.x86_64                                                          2.7-1.el7                                                     epel    
 tipcutils.x86_64                                                    2.0.6-1.el7                                                   epel    
 tiptop.x86_64                                                       2.3-1.el7                                                     epel    
-tito.noarch                                                         0.6.24-1.el7                                                  epel    
+tito.noarch                                                         0.6.25-1.el7                                                  epel    
 tix.x86_64                                                          1:8.4.3-12.an7                                                os      
 tix-devel.x86_64                                                    1:8.4.3-12.an7                                                os      
 tix-doc.x86_64                                                      1:8.4.3-12.an7                                                os      
