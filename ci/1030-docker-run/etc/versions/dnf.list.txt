@@ -1077,7 +1077,7 @@ artwiz-aleczapka-mints-strong-fonts.noarch                          1.3-19.el7  
 artwiz-aleczapka-nu-fonts.noarch                                    1.3-19.el7                                                    epel    
 artwiz-aleczapka-smoothansi-fonts.noarch                            1.3-19.el7                                                    epel    
 artwiz-aleczapka-snap-fonts.noarch                                  1.3-19.el7                                                    epel    
-ascii.x86_64                                                        3.18-15.el7                                                   epel    
+ascii.x86_64                                                        3.19-1.el7                                                    epel    
 ascii-design.x86_64                                                 1.1.1-1.el7                                                   epel    
 asciidoc.noarch                                                     8.6.8-5.an7                                                   os      
 asciidoc-doc.noarch                                                 8.6.8-5.an7                                                   os      
@@ -3446,7 +3446,7 @@ fedmsg-doc.noarch                                                   1.1.6-1.el7 
 fedora-cert.noarch                                                  0.6.0.1-1.el7                                                 epel    
 fedora-easy-karma.noarch                                            0-0.32.20170930git0c81432c.el7                                epel    
 fedora-gnat-project-common.noarch                                   3.9-1.el7                                                     epel    
-fedora-license-data.noarch                                          1.39-1.el7                                                    epel    
+fedora-license-data.noarch                                          1.40-1.el7                                                    epel    
 fedora-packager.noarch                                              0.6.0.1-1.el7                                                 epel    
 fedora-repo-zdicts.noarch                                           2309.1-1.el7                                                  epel    
 fedora-review.noarch                                                0.5.3-2.el7                                                   epel    
@@ -7937,8 +7937,8 @@ libeasyfc-devel.x86_64                                              0.13.0-3.an7
 libeasyfc-gobject.x86_64                                            0.13.0-3.an7                                                  os      
 libeasyfc-gobject-devel.x86_64                                      0.13.0-3.an7                                                  os      
 libeatmydata.x86_64                                                 130-4.el7                                                     epel    
-libebml.x86_64                                                      1.3.9-1.el7                                                   epel    
-libebml-devel.x86_64                                                1.3.9-1.el7                                                   epel    
+libebml.x86_64                                                      1.3.9-2.el7                                                   epel    
+libebml-devel.x86_64                                                1.3.9-2.el7                                                   epel    
 libebur128.x86_64                                                   1.2.3-1.el7                                                   epel    
 libebur128-devel.x86_64                                             1.2.3-1.el7                                                   epel    
 libecap.x86_64                                                      1.0.0-1.an7                                                   os      
