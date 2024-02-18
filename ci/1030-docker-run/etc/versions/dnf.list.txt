@@ -2001,10 +2001,10 @@ chm2pdf.noarch                                                      0.9.1-13.el7
 chmlib.x86_64                                                       0.40-9.el7                                                    epel    
 chmlib-devel.x86_64                                                 0.40-9.el7                                                    epel    
 chrome-gnome-shell.x86_64                                           10.1-4.an7                                                    os      
-chromedriver.x86_64                                                 120.0.6099.224-1.el7                                          epel    
-chromium.x86_64                                                     120.0.6099.224-1.el7                                          epel    
-chromium-common.x86_64                                              120.0.6099.224-1.el7                                          epel    
-chromium-headless.x86_64                                            120.0.6099.224-1.el7                                          epel    
+chromedriver.x86_64                                                 121.0.6167.160-1.el7                                          epel    
+chromium.x86_64                                                     121.0.6167.160-1.el7                                          epel    
+chromium-common.x86_64                                              121.0.6167.160-1.el7                                          epel    
+chromium-headless.x86_64                                            121.0.6167.160-1.el7                                          epel    
 chrony.x86_64                                                       3.4-1.0.1.an7                                                 os      
 chrpath.x86_64                                                      0.16-0.an7                                                    os      
 cifs-utils.x86_64                                                   6.2-10.an7                                                    os      
