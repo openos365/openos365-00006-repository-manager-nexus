@@ -8428,9 +8428,9 @@ libmodbus-devel.x86_64                                              3.0.8-1.el7 
 libmodman-devel.x86_64                                              2.0.1-8.an7                                                   os      
 libmodplug.x86_64                                                   1:0.8.9.0-9.el7                                               epel    
 libmodplug-devel.x86_64                                             1:0.8.9.0-9.el7                                               epel    
-libmodsecurity.x86_64                                               3.0.10-1.el7                                                  epel    
-libmodsecurity-devel.x86_64                                         3.0.10-1.el7                                                  epel    
-libmodsecurity-static.x86_64                                        3.0.10-1.el7                                                  epel    
+libmodsecurity.x86_64                                               3.0.12-1.el7                                                  epel    
+libmodsecurity-devel.x86_64                                         3.0.12-1.el7                                                  epel    
+libmodsecurity-static.x86_64                                        3.0.12-1.el7                                                  epel    
 libmodulemd-devel.x86_64                                            1.6.3-1.an7.0.1                                               extras  
 libmodulemd2.x86_64                                                 2.15.0-2.el7                                                  epel    
 libmodulemd2-devel.x86_64                                           2.15.0-2.el7                                                  epel    
