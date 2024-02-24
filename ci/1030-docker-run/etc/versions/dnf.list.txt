@@ -3446,7 +3446,7 @@ fedmsg-doc.noarch                                                   1.1.6-1.el7 
 fedora-cert.noarch                                                  0.6.0.1-1.el7                                                 epel    
 fedora-easy-karma.noarch                                            0-0.32.20170930git0c81432c.el7                                epel    
 fedora-gnat-project-common.noarch                                   3.9-1.el7                                                     epel    
-fedora-license-data.noarch                                          1.40-1.el7                                                    epel    
+fedora-license-data.noarch                                          1.41-1.el7                                                    epel    
 fedora-packager.noarch                                              0.6.0.1-1.el7                                                 epel    
 fedora-repo-zdicts.noarch                                           2309.1-1.el7                                                  epel    
 fedora-review.noarch                                                0.5.3-2.el7                                                   epel    
@@ -6288,9 +6288,9 @@ iptraf-ng.x86_64                                                    1.1.4-7.an7 
 iptstate.x86_64                                                     2.2.5-4.an7                                                   os      
 iputils-ninfod.x86_64                                               20160308-10.an7                                               os      
 iputils-sysvinit.x86_64                                             20160308-10.an7                                               os      
-ipv6calc.x86_64                                                     4.1.0-70.el7                                                  epel    
-ipv6calc-ipv6calcweb.x86_64                                         4.1.0-70.el7                                                  epel    
-ipv6calc-mod_ipv6calc.x86_64                                        4.1.0-70.el7                                                  epel    
+ipv6calc.x86_64                                                     4.2.0-80.el7                                                  epel    
+ipv6calc-ipv6calcweb.x86_64                                         4.2.0-80.el7                                                  epel    
+ipv6calc-mod_ipv6calc.x86_64                                        4.2.0-80.el7                                                  epel    
 ipv6gen.noarch                                                      1.0-1.el7                                                     epel    
 ipvsadm.x86_64                                                      1.27-8.an7                                                    os      
 ipxe-bootimgs.noarch                                                20180825-3.git133f4c.an7                                      os      
