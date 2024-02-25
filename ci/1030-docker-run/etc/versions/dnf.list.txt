@@ -1,3 +1,4 @@
+Last metadata expiration check: 0:00:19 ago on Sun Feb 25 12:28:41 2024.
 Installed Packages
 acl.x86_64                                                          2.2.51-15.an7                                                 @System 
 anolis-gpg-keys.noarch                                              7.9-1.an7                                                     @System 
@@ -1077,7 +1078,7 @@ artwiz-aleczapka-mints-strong-fonts.noarch                          1.3-19.el7  
 artwiz-aleczapka-nu-fonts.noarch                                    1.3-19.el7                                                    epel    
 artwiz-aleczapka-smoothansi-fonts.noarch                            1.3-19.el7                                                    epel    
 artwiz-aleczapka-snap-fonts.noarch                                  1.3-19.el7                                                    epel    
-ascii.x86_64                                                        3.19-1.el7                                                    epel    
+ascii.x86_64                                                        3.20-1.el7                                                    epel    
 ascii-design.x86_64                                                 1.1.1-1.el7                                                   epel    
 asciidoc.noarch                                                     8.6.8-5.an7                                                   os      
 asciidoc-doc.noarch                                                 8.6.8-5.an7                                                   os      
