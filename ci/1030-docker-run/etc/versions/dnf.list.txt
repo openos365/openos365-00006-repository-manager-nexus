@@ -321,8 +321,7 @@ Available Packages
 389-ds-base-libs.x86_64                                             1.3.11.1-3.0.1.an7                                            updates 
 389-ds-base-snmp.x86_64                                             1.3.11.1-3.0.1.an7                                            updates 
 389-ds-base-tests.noarch                                            1.3.11.1-3.0.1.an7                                            updates 
-3proxy.x86_64                                                       0.7-1.el7                                                     epel    
-3proxy-sysvinit.x86_64                                              0.7-1.el7                                                     epel    
+3proxy.x86_64                                                       0.9.4-2.el7                                                   epel    
 4diac-forte.x86_64                                                  1.9.0-0.1.M3.el7                                              epel    
 90-Second-Portraits.noarch                                          1.01b-3.el7                                                   epel    
 AMF-devel.noarch                                                    1.4.30-1.el7                                                  epel    
@@ -18762,9 +18761,9 @@ smstools.x86_64                                                     3.1.15-12.el
 smtpping.x86_64                                                     1.1.3-1.el7                                                   epel    
 snakeyaml.noarch                                                    1.11-8.an7                                                    os      
 snakeyaml-javadoc.noarch                                            1.11-8.an7                                                    os      
-snap-confine.x86_64                                                 2.61.1-0.el7                                                  epel    
-snapd.x86_64                                                        2.61.1-0.el7                                                  epel    
-snapd-devel.noarch                                                  2.61.1-0.el7                                                  epel    
+snap-confine.x86_64                                                 2.61.2-0.el7                                                  epel    
+snapd.x86_64                                                        2.61.2-0.el7                                                  epel    
+snapd-devel.noarch                                                  2.61.2-0.el7                                                  epel    
 snapd-glib.x86_64                                                   1.58-1.el7                                                    epel    
 snapd-glib-devel.x86_64                                             1.58-1.el7                                                    epel    
 snapd-glib-tests.x86_64                                             1.58-1.el7                                                    epel    
@@ -18772,7 +18771,7 @@ snapd-qt.x86_64                                                     1.58-1.el7  
 snapd-qt-devel.x86_64                                               1.58-1.el7                                                    epel    
 snapd-qt-qml.x86_64                                                 1.58-1.el7                                                    epel    
 snapd-qt-tests.x86_64                                               1.58-1.el7                                                    epel    
-snapd-selinux.noarch                                                2.61.1-0.el7                                                  epel    
+snapd-selinux.noarch                                                2.61.2-0.el7                                                  epel    
 snapper.x86_64                                                      0.2.8-4.an7                                                   os      
 snapper-devel.x86_64                                                0.2.8-4.an7                                                   os      
 snapper-libs.x86_64                                                 0.2.8-4.an7                                                   os      
