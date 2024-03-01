@@ -13099,7 +13099,7 @@ perl-MCE-Shared.noarch                                              1.862-1.el7 
 perl-MCE-tools.noarch                                               1.862-1.el7                                                   epel    
 perl-MIME-Base32.noarch                                             1.02a-13.el7                                                  epel    
 perl-MIME-Charset.noarch                                            1.011.1-1.el7                                                 epel    
-perl-MIME-EncWords.noarch                                           1.014.2-1.el7                                                 epel    
+perl-MIME-EncWords.noarch                                           1.015.0-1.el7                                                 epel    
 perl-MIME-Lite.noarch                                               3.030-1.el7                                                   epel    
 perl-MIME-Lite-HTML.noarch                                          1.24-8.el7                                                    epel    
 perl-MIME-Types.noarch                                              1.38-2.el7                                                    epel    
