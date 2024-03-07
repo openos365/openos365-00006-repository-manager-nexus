@@ -31,7 +31,7 @@ cracklib-dicts.x86_64                   2.9.0-11.an7                    @System
 cryptsetup-libs.x86_64                  2.0.3-6.an7                     @System 
 cscope.x86_64                           15.8-10.an7                     @os     
 ctags.x86_64                            5.8-13.an7                      @os     
-curl.x86_64                             7.29.0-59.an7.1                 @System 
+curl.x86_64                             7.29.0-59.an7.2                 @System 
 cyrus-sasl-lib.x86_64                   2.1.26-24.an7                   @System 
 dbus.x86_64                             1:1.10.24-15.an7                @System 
 dbus-glib.x86_64                        0.100-7.an7                     @System 
@@ -124,7 +124,7 @@ libcap-ng.x86_64                        0.7.5-4.an7                     @System
 libcom_err.x86_64                       1.43.5-8.4.an7                  @System 
 libcomps.x86_64                         0.1.8-14.an7                    @System 
 libcroco.x86_64                         0.6.12-6.an7                    @updates
-libcurl.x86_64                          7.29.0-59.an7.1                 @System 
+libcurl.x86_64                          7.29.0-59.an7.2                 @System 
 libdb.x86_64                            5.3.21-25.an7                   @System 
 libdb-utils.x86_64                      5.3.21-25.an7                   @System 
 libdnf.x86_64                           0.22.5-2.an7                    @System 
@@ -289,7 +289,7 @@ systemtap-runtime.x86_64                4.0-13.an7                      @os
 tar.x86_64                              2:1.26-35.an7                   @System 
 tcl.x86_64                              1:8.5.13-8.an7                  @os     
 trousers.x86_64                         0.3.14-2.an7                    @os     
-tzdata.noarch                           2023c-1.an7                     @System 
+tzdata.noarch                           2024a-1.an7                     @System 
 unzip.x86_64                            6.0-24.an7                      @updates
 ustr.x86_64                             1.0.4-16.an7                    @System 
 util-linux.x86_64                       2.23.2-65.an7.1                 @System 
