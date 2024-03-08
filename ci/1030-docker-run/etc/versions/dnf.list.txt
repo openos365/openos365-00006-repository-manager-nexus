@@ -16371,7 +16371,7 @@ python2-requests-gssapi.noarch                                      1.2.2-1.el7 
 python2-requests-mock.noarch                                        1.5.2-1.el7                                                   epel    
 python2-requests-oauthlib.noarch                                    0.8.0-5.an7                                                   os      
 python2-requests_ntlm.noarch                                        1.1.0-1.el7                                                   epel    
-python2-resalloc.noarch                                             5.1-1.el7                                                     epel    
+python2-resalloc.noarch                                             5.3-1.el7                                                     epel    
 python2-responses.noarch                                            0.5.1-7.el7                                                   epel    
 python2-resultsdb_api.noarch                                        2.1.5-3.el7                                                   epel    
 python2-resultsdb_conventions.noarch                                2.1.0-2.el7                                                   epel    
@@ -17630,10 +17630,11 @@ reposurgeon.noarch                                                  3.42-1.el7  
 repoview.noarch                                                     0.6.6-4.el7                                                   epel    
 reprepro.x86_64                                                     4.17.0-3.el7                                                  epel    
 reptyr.x86_64                                                       0.5-1.el7                                                     epel    
-resalloc.noarch                                                     5.1-1.el7                                                     epel    
+resalloc.noarch                                                     5.3-1.el7                                                     epel    
+resalloc-helpers.noarch                                             5.3-1.el7                                                     epel    
 resalloc-openstack.noarch                                           9.7-1.el7                                                     epel    
-resalloc-selinux.noarch                                             5.1-1.el7                                                     epel    
-resalloc-server.noarch                                              5.1-1.el7                                                     epel    
+resalloc-selinux.noarch                                             5.3-1.el7                                                     epel    
+resalloc-server.noarch                                              5.3-1.el7                                                     epel    
 resiprocate-clicktocall.x86_64                                      1.10.2-26.el7                                                 epel    
 resiprocate-devel.x86_64                                            1.10.2-26.el7                                                 epel    
 resiprocate-libs.x86_64                                             1.10.2-26.el7                                                 epel    
@@ -18444,8 +18445,8 @@ schroot.x86_64                                                      1.6.10-7.el7
 scikit-image-tools.noarch                                           0.12.3-5.el7                                                  epel    
 scipy.x86_64                                                        0.12.1-6.an7                                                  os      
 scite.x86_64                                                        3.5.1-1.el7                                                   epel    
-scitokens-cpp.x86_64                                                1.1.0-1.el7                                                   epel    
-scitokens-cpp-devel.x86_64                                          1.1.0-1.el7                                                   epel    
+scitokens-cpp.x86_64                                                1.1.1-1.el7                                                   epel    
+scitokens-cpp-devel.x86_64                                          1.1.1-1.el7                                                   epel    
 scl-utils.x86_64                                                    20130529-19.an7                                               os      
 scl-utils-build.x86_64                                              20130529-19.an7                                               os      
 scl-utils-build-helpers.noarch                                      0-8.el7                                                       epel    
