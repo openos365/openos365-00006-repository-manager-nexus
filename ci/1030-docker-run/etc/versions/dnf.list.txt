@@ -1999,10 +1999,10 @@ chm2pdf.noarch                                                      0.9.1-13.el7
 chmlib.x86_64                                                       0.40-9.el7                                                    epel    
 chmlib-devel.x86_64                                                 0.40-9.el7                                                    epel    
 chrome-gnome-shell.x86_64                                           10.1-4.an7                                                    os      
-chromedriver.x86_64                                                 121.0.6167.184-1.el7                                          epel    
-chromium.x86_64                                                     121.0.6167.184-1.el7                                          epel    
-chromium-common.x86_64                                              121.0.6167.184-1.el7                                          epel    
-chromium-headless.x86_64                                            121.0.6167.184-1.el7                                          epel    
+chromedriver.x86_64                                                 122.0.6261.94-1.el7                                           epel    
+chromium.x86_64                                                     122.0.6261.94-1.el7                                           epel    
+chromium-common.x86_64                                              122.0.6261.94-1.el7                                           epel    
+chromium-headless.x86_64                                            122.0.6261.94-1.el7                                           epel    
 chrony.x86_64                                                       3.4-1.0.1.an7                                                 os      
 chrpath.x86_64                                                      0.16-0.an7                                                    os      
 cifs-utils.x86_64                                                   6.2-10.an7                                                    os      
@@ -17632,7 +17632,7 @@ reprepro.x86_64                                                     4.17.0-3.el7
 reptyr.x86_64                                                       0.5-1.el7                                                     epel    
 resalloc.noarch                                                     5.3-1.el7                                                     epel    
 resalloc-helpers.noarch                                             5.3-1.el7                                                     epel    
-resalloc-openstack.noarch                                           9.7-1.el7                                                     epel    
+resalloc-openstack.noarch                                           9.8-1.el7                                                     epel    
 resalloc-selinux.noarch                                             5.3-1.el7                                                     epel    
 resalloc-server.noarch                                              5.3-1.el7                                                     epel    
 resiprocate-clicktocall.x86_64                                      1.10.2-26.el7                                                 epel    
@@ -18829,7 +18829,7 @@ spacenavd.x86_64                                                    0.8-1.el7   
 spamass-milter.x86_64                                               0.4.0-7.el7                                                   epel    
 spamass-milter-postfix.noarch                                       0.4.0-7.el7                                                   epel    
 spamassassin.x86_64                                                 3.4.0-6.an7                                                   os      
-spamassassin-iXhash2.noarch                                         2.05-12.el7                                                   epel    
+spamassassin-iXhash2.noarch                                         2.05-26.el7                                                   epel    
 spandsp.x86_64                                                      0.0.6-0.10.pre21.el7                                          epel    
 spandsp-apidoc.x86_64                                               0.0.6-0.10.pre21.el7                                          epel    
 spandsp-devel.x86_64                                                0.0.6-0.10.pre21.el7                                          epel    
