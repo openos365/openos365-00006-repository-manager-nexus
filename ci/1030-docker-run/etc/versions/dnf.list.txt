@@ -8247,9 +8247,9 @@ libirman.x86_64                                                     0.4.5-9.el7 
 libirman-devel.x86_64                                               0.4.5-9.el7                                                   epel    
 libisds.x86_64                                                      0.11.2-1.el7                                                  epel    
 libisds-devel.x86_64                                                0.11.2-1.el7                                                  epel    
-libisoburn.x86_64                                                   1.5.6-1.el7                                                   epel    
-libisoburn-devel.x86_64                                             1.5.6-1.el7                                                   epel    
-libisoburn-doc.noarch                                               1.5.6-1.el7                                                   epel    
+libisoburn.x86_64                                                   1.5.6-5.el7                                                   epel    
+libisoburn-devel.x86_64                                             1.5.6-5.el7                                                   epel    
+libisoburn-doc.noarch                                               1.5.6-5.el7                                                   epel    
 libisofs.x86_64                                                     1.2.8-4.an7                                                   os      
 libisofs-devel.x86_64                                               1.2.8-4.an7                                                   os      
 libisofs1.x86_64                                                    1.5.6-1.el7                                                   epel    
@@ -17820,7 +17820,7 @@ rpcbind.x86_64                                                      0.2.0-49.an7
 rpkg.noarch                                                         0.14-1.el7                                                    epel    
 rpkg-common.noarch                                                  1.66-15.el7                                                   epel    
 rpkg-macros.noarch                                                  2.0-1.el7                                                     epel    
-rpki-client.x86_64                                                  8.9-1.el7                                                     epel    
+rpki-client.x86_64                                                  9.0-1.el7                                                     epel    
 rpl.noarch                                                          1.5.7-3.el7                                                   epel    
 rpm-apidocs.noarch                                                  4.11.3-48.an7                                                 updates 
 rpm-cron.noarch                                                     4.11.3-48.an7                                                 updates 
@@ -21270,7 +21270,7 @@ xorg-x11-xkb-utils.x86_64                                           7.7-14.an7  
 xorg-x11-xkb-utils-devel.x86_64                                     7.7-14.an7                                                    os      
 xorg-x11-xtrans-devel.noarch                                        1.3.5-1.an7                                                   os      
 xorgxrdp.x86_64                                                     0.9.19-1.el7                                                  epel    
-xorriso.x86_64                                                      1.5.6-1.el7                                                   epel    
+xorriso.x86_64                                                      1.5.6-5.el7                                                   epel    
 xosd.x86_64                                                         2.2.14-24.el7                                                 epel    
 xosd-devel.x86_64                                                   2.2.14-24.el7                                                 epel    
 xournal.x86_64                                                      0.4.8-5.el7                                                   epel    
