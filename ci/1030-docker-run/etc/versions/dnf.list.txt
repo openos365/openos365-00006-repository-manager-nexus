@@ -1113,6 +1113,7 @@ at-sysvinit.x86_64                                                  3.1.13-25.an
 atari++.x86_64                                                      1.80-1.el7                                                    epel    
 atari800.x86_64                                                     5.0.0-1.el7                                                   epel    
 atasm.x86_64                                                        1.09-1.el7                                                    epel    
+atf-tests.x86_64                                                    0.21-3.el7                                                    epel    
 atinject.noarch                                                     1-13.20100611svn86.an7                                        os      
 atinject-javadoc.noarch                                             1-13.20100611svn86.an7                                        os      
 atinject-tck.noarch                                                 1-13.20100611svn86.an7                                        os      
@@ -1940,9 +1941,9 @@ cdpr.x86_64                                                         2.4-6.el7   
 cdrdao.x86_64                                                       1.2.3-20.an7                                                  os      
 cdrskin.x86_64                                                      1.2.8-4.an7                                                   os      
 cdrskin1.x86_64                                                     1.5.6-1.el7                                                   epel    
-cekit.noarch                                                        4.10.0-1.el7                                                  epel    
-cekit-bash-completion.noarch                                        4.10.0-1.el7                                                  epel    
-cekit-zsh-completion.noarch                                         4.10.0-1.el7                                                  epel    
+cekit.noarch                                                        4.11.0-1.el7                                                  epel    
+cekit-bash-completion.noarch                                        4.11.0-1.el7                                                  epel    
+cekit-zsh-completion.noarch                                         4.11.0-1.el7                                                  epel    
 celt051.x86_64                                                      0.5.1.3-8.an7                                                 os      
 celt051-devel.x86_64                                                0.5.1.3-8.an7                                                 os      
 centerim.x86_64                                                     1:4.22.10-14.el7                                              epel    
@@ -7665,6 +7666,12 @@ libasyncns.x86_64                                                   0.8-7.an7   
 libasyncns-devel.x86_64                                             0.8-7.an7                                                     os      
 libatasmart.x86_64                                                  0.19-6.an7                                                    os      
 libatasmart-devel.x86_64                                            0.19-6.an7                                                    os      
+libatf-c.x86_64                                                     0.21-3.el7                                                    epel    
+libatf-c++.x86_64                                                   0.21-3.el7                                                    epel    
+libatf-c++-devel.x86_64                                             0.21-3.el7                                                    epel    
+libatf-c-devel.x86_64                                               0.21-3.el7                                                    epel    
+libatf-sh.x86_64                                                    0.21-3.el7                                                    epel    
+libatf-sh-devel.x86_64                                              0.21-3.el7                                                    epel    
 libatomic-static.x86_64                                             4.8.5-44.0.1.an7                                              os      
 libatomic_ops-devel.x86_64                                          7.2d-7.an7                                                    os      
 libattr-devel.x86_64                                                2.4.46-13.an7                                                 os      
@@ -11776,7 +11783,7 @@ openbabel-devel.x86_64                                              2.3.2-2.el7 
 openbabel-doc.noarch                                                2.3.2-2.el7                                                   epel    
 openbabel-gui.x86_64                                                2.3.2-2.el7                                                   epel    
 openbabel-libs.x86_64                                               2.3.2-2.el7                                                   epel    
-openbgpd.x86_64                                                     8.3-1.el7                                                     epel    
+openbgpd.x86_64                                                     8.4-1.el7                                                     epel    
 openblas.x86_64                                                     0.3.3-2.el7                                                   epel    
 openblas-Rblas.x86_64                                               0.3.3-2.el7                                                   epel    
 openblas-devel.x86_64                                               0.3.3-2.el7                                                   epel    
