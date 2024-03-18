@@ -18617,7 +18617,7 @@ sicktoolbox-doc.noarch                                              1.0.1-4.el7 
 siege.x86_64                                                        4.1.1-1.el7                                                   epel    
 sigil.x86_64                                                        0.8.1-1.el7                                                   epel    
 sigil-doc.x86_64                                                    0.8.1-1.el7                                                   epel    
-signify.x86_64                                                      31-1.el7                                                      epel    
+signify.x86_64                                                      32-1.el7                                                      epel    
 signpost-core.noarch                                                1.2.1.2-7.el7                                                 epel    
 signpost-core-javadoc.noarch                                        1.2.1.2-7.el7                                                 epel    
 sil-abyssinica-fonts.noarch                                         1.200-6.an7                                                   os      
