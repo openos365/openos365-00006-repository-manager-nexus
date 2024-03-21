@@ -2762,8 +2762,8 @@ distcc.x86_64                                                       3.2rc1-22.el
 distcc-gnome.x86_64                                                 3.2rc1-22.el7                                                 epel    
 distcc-server.x86_64                                                3.2rc1-22.el7                                                 epel    
 distgen.noarch                                                      1.17-1.el7                                                    epel    
-distribution-gpg-keys.noarch                                        1.100-1.el7                                                   epel    
-distribution-gpg-keys-copr.noarch                                   1.100-1.el7                                                   epel    
+distribution-gpg-keys.noarch                                        1.102-1.el7                                                   epel    
+distribution-gpg-keys-copr.noarch                                   1.102-1.el7                                                   epel    
 djvulibre.x86_64                                                    3.5.25.3-24.el7                                               epel    
 djvulibre-devel.x86_64                                              3.5.25.3-24.el7                                               epel    
 djvulibre-libs.x86_64                                               3.5.25.3-24.el7                                               epel    
