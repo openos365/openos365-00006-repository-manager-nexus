@@ -828,9 +828,9 @@ amarok-doc.noarch                                                   2.8.0-19.el7
 amarok-libs.x86_64                                                  2.8.0-19.el7                                                  epel    
 amarok-nepomukcollection.x86_64                                     2.8.0-19.el7                                                  epel    
 amarok-utils.x86_64                                                 2.8.0-19.el7                                                  epel    
-amavis.noarch                                                       2.12.0-10.el7                                                 epel    
-amavis-doc.noarch                                                   2.12.0-10.el7                                                 epel    
-amavis-snmp.noarch                                                  2.12.0-10.el7                                                 epel    
+amavis.noarch                                                       2.12.3-1.el7                                                  epel    
+amavis-doc.noarch                                                   2.12.3-1.el7                                                  epel    
+amavis-snmp.noarch                                                  2.12.3-1.el7                                                  epel    
 amavisd-milter.x86_64                                               1.7.2-1.el7                                                   epel    
 amiri-fonts.noarch                                                  0.113-1.el7                                                   epel    
 amiri-fonts-common.noarch                                           0.113-1.el7                                                   epel    
