@@ -9693,6 +9693,10 @@ lumina-screenshot.x86_64                                            1.0.0-5.p2.L
 lumina-search.x86_64                                                1.0.0-5.p2.Lbc08e90.el7                                       epel    
 lumina-textedit.x86_64                                              1.0.0-5.p2.Lbc08e90.el7                                       epel    
 lumina-xconfig.x86_64                                               1.0.0-5.p2.Lbc08e90.el7                                       epel    
+lutok.x86_64                                                        0.4-26.el7                                                    epel    
+lutok-devel.x86_64                                                  0.4-26.el7                                                    epel    
+lutok-doc.noarch                                                    0.4-26.el7                                                    epel    
+lutok-tests.x86_64                                                  0.4-26.el7                                                    epel    
 lv.x86_64                                                           4.51-25.el7                                                   epel    
 lv2.x86_64                                                          1.10.0-4.el7                                                  epel    
 lv2-devel.x86_64                                                    1.10.0-4.el7                                                  epel    
@@ -9760,7 +9764,7 @@ lxqt-themes.noarch                                                  0.14.0-3.el7
 lxqt-themes-fedora.noarch                                           0.14.0-3.el7                                                  epel    
 lxqt-wallet.x86_64                                                  3.0.0-1.el7                                                   epel    
 lxqt-wallet-devel.x86_64                                            3.0.0-1.el7                                                   epel    
-lynis.noarch                                                        3.0.9-1.el7                                                   epel    
+lynis.noarch                                                        3.1.1-1.el7                                                   epel    
 lyx.x86_64                                                          2.2.3-1.el7                                                   epel    
 lyx-common.noarch                                                   2.2.3-1.el7                                                   epel    
 lyx-fonts.noarch                                                    2.2.3-1.el7                                                   epel    
@@ -11845,8 +11849,8 @@ opendbx-utils.x86_64                                                1.4.6-6.el7 
 opendkim.x86_64                                                     2.11.0-0.1.el7                                                epel    
 opendmarc.x86_64                                                    1.4.1.1-3.el7                                                 epel    
 opendnssec.x86_64                                                   1.4.7-4.an7                                                   os      
-openelp.x86_64                                                      0.9.2-1.el7                                                   epel    
-openelp-devel.x86_64                                                0.9.2-1.el7                                                   epel    
+openelp.x86_64                                                      0.9.3-1.el7                                                   epel    
+openelp-devel.x86_64                                                0.9.3-1.el7                                                   epel    
 openfortivpn.x86_64                                                 1.17.0-3.el7                                                  epel    
 opengl-games-utils.noarch                                           0.2-8.el7                                                     epel    
 openhantek.x86_64                                                   3.3.3-1.el7                                                   epel    
@@ -20753,8 +20757,8 @@ vtun.x86_64                                                         3.0.4-5.el7 
 vym.x86_64                                                          2.5.21-1.el7                                                  epel    
 w3c-markup-validator.noarch                                         1.3-4.el7                                                     epel    
 w3c-markup-validator-libs.noarch                                    1.3-4.el7                                                     epel    
-w3m.x86_64                                                          0.5.3-60.git20230121.el7                                      epel    
-w3m-img.x86_64                                                      0.5.3-60.git20230121.el7                                      epel    
+w3m.x86_64                                                          0.5.3-63.git20230121.el7                                      epel    
+w3m-img.x86_64                                                      0.5.3-63.git20230121.el7                                      epel    
 wabt.x86_64                                                         1.0.24-1.el7                                                  epel    
 waf.noarch                                                          1.8.22-1.el7                                                  epel    
 waf-doc.noarch                                                      1.8.22-1.el7                                                  epel    
